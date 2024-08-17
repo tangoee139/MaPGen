@@ -1,3 +1,3 @@
 # KneeMRG
 
-We will release our code before August 19, 2024.
+Code of AAAI 2025 paper: "KneeMRG: Medical Report Generation for Knee MRI Sequence".

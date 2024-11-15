@@ -1,3 +1,3 @@
-# KneeMRG
+# MaPGen
 
-Code of AAAI 2025 paper: "KneeMRG: Medical Report Generation for Knee MRI Sequence".
+Code of CVPR 2025 paper: "MaPGen: Masking Prompts for MRI Medical Report Generation".
